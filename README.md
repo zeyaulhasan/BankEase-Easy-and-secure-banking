@@ -87,3 +87,11 @@ Run the application:
 
 java -cp bin bank.management.system.Login
 
+
+
+## 📈 Future Enhancements
+- 🚀 Add Admin Dashboard for managing accounts  
+- 🔒 Implement password hashing for stronger security  
+- 📊 Add transaction history feature  
+- 🎨 Improve UI with modern look and feel  
+- ☁️ Deploy using AWS RDS for cloud database support  
