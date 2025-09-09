@@ -38,16 +38,7 @@ This project demonstrates how **Java** can be integrated with **databases** to b
 
 ## 📂 Project Structure
 
-BankEase/
-│── src/
-│ └── bank/management/system/
-│ ├── Con.java # Database connection class
-│ ├── Login.java # Login functionality
-│ ├── Signup.java # Signup functionality
-│ ├── Transactions.java # Deposit, Withdraw, Balance Inquiry
-│── icons/ # Icons and images used in GUI
-│── README.md # Project Documentation
-
+<img width="561" height="325" alt="image" src="https://github.com/user-attachments/assets/1cb533e6-6012-4499-aba0-8ac5f4dd32db" />
 
 ---
 
@@ -96,9 +87,3 @@ Run the application:
 
 java -cp bin bank.management.system.Login
 
-📈 Future Enhancements
-✅ Add Admin Dashboard for managing accounts
-✅ Implement password hashing for stronger security
-✅ Add transaction history feature
-✅ Improve UI with modern look and feel
-✅ Deploy using AWS RDS for cloud database support
