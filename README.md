@@ -46,7 +46,8 @@ This project demonstrates how **Java** can be integrated with **databases** to b
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/BankEase.git
+git clone https://github.com/zeyaulhasan/BankEase.git
+
 cd BankEase
 
 
